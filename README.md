@@ -33,8 +33,8 @@ cd ../<name of your project dir>
 diff output.txt result.txt
 ```
 
--if nothing has shown, your good. Else, it will print the differences between files. 
--if you are afraid, you can always check in text compare websites.
+- if nothing has shown, your good. Else, it will print the differences between files. 
+- if you are afraid, you can always check in text compare websites.
 
 
 ## Thanks to
