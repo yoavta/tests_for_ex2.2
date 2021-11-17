@@ -38,7 +38,7 @@ diff output.txt result.txt
 
 
 ## Thanks to
-- Hige School Student that sat in front of me in the class and I saw him do it.
+- Thanks to the high school student who sat in front of me during class today and saw him do it.
 
 ## Disclaimer
 - Own your responasabilty. I've just generated 250 random inputs and checked their correctness.
